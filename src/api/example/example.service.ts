@@ -11,7 +11,7 @@ export class ExampleService {
   ) {}
 
   /**
-   * @code writer 작성자명
+   * @code writer 남혜민
    * @description 자유게시판 생성 API
    *
    * @param

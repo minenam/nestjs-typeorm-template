@@ -17,7 +17,7 @@ const SucessStatusCodeMessage = {
 };
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description Response 형식 interceptor
  */
 @Injectable()

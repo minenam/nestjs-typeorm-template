@@ -15,7 +15,7 @@ export class ExampleController {
   constructor(private readonly exampleService: ExampleService) {}
 
   /**
-   * @code writer 작성자명
+   * @code writer 남혜민
    * @description API 설명
    *
    * @POST ("/example")

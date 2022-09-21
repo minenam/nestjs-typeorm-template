@@ -1,6 +1,6 @@
 export class ExmapleAPIDocs {
   /**
-   * @code writer 김현균
+   * @code writer 남혜민
    * @description 해당 api의 Swagger Docs
    */
   static ExampleOperation() {

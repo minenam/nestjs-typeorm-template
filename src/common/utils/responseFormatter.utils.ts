@@ -1,7 +1,7 @@
 import { ApiProperty } from '@nestjs/swagger';
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description API Docs Response 기본 형식
  */
 class BaseResponse {
@@ -16,7 +16,7 @@ class BaseResponse {
 }
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description API Docs Exception 기본 형식
  */
 class BaseException {
@@ -33,7 +33,7 @@ class BaseException {
 }
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description API Docs Response 형식 생성 함수
  *
  * @param dto: object
@@ -59,7 +59,7 @@ export function responseFormatter(dto: object, isArray = false) {
 }
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description API Docs Exception 형식 생성 함수
  *
  * @param type: object

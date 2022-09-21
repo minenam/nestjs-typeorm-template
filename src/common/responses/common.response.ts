@@ -1,7 +1,7 @@
 import { exceptionFormatter } from '../utils/responseFormatter.utils';
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description API Docs용 기본 Response
  */
 export class CommonResponse {

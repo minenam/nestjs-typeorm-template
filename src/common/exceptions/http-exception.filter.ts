@@ -7,7 +7,7 @@ import {
 } from '@nestjs/common';
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description Exceptionfilter
  */
 @Catch()

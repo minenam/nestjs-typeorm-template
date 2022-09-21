@@ -3,7 +3,7 @@ import { CommonEntity } from '../../../common/entities/common-entity';
 import { Column, Entity } from 'typeorm';
 
 /**
- * @code writer 작성자명
+ * @code writer 남혜민
  * @description Example 모델 정의
  */
 @Entity({

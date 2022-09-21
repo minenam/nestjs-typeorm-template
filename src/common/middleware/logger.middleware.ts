@@ -2,7 +2,7 @@ import { Injectable, Logger, NestMiddleware } from '@nestjs/common';
 import { Request, Response } from 'express';
 
 /**
- * @code writer 김현균
+ * @code writer 남혜민
  * @description Request logger 코드
  */
 @Injectable()
