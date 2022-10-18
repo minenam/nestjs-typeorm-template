@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-template",
+  "name": "good-luck-server",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -33,7 +33,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "mysql2": "^2.3.3",
+    "pg": "^8.7.3",
     "typeorm": "^0.3.9",
     "typeorm-naming-strategies": "^4.1.0"
   },
